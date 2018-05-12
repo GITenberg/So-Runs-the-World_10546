@@ -1,5 +1,5 @@
 _repo: So-Runs-the-World_10546
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Soissons, Count de
@@ -12,6 +12,9 @@ contributor:
     birthdate: 1860
     gutenberg_agent_id: '38958'
     url: http://www.gutenberg.org/2009/agents/38958
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10546#So-Runs-the-World
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
